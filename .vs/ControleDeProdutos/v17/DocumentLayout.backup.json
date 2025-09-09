@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|c:\\users\\maria\\source\\repos\\controledeprodutos\\controledeprodutos\\dbapplication\\sqlserverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|solutionrelative:controledeprodutos\\dbapplication\\sqlserverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|c:\\users\\maria\\source\\repos\\controledeprodutos\\controledeprodutos\\entities\\comandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|solutionrelative:controledeprodutos\\entities\\comandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\controledeprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|solutionrelative:controledeprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\controledeprodutos\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|solutionrelative:controledeprodutos\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\controledeprodutos\\enum\\categoriaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78852CD-60F4-4EC5-8ADA-BFB3E680B67A}|ControleDeProdutos\\ControleDeProdutos.csproj|solutionrelative:controledeprodutos\\enum\\categoriaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLServerClass.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\DbApplication\\SQLServerClass.cs",
+              "RelativeDocumentMoniker": "ControleDeProdutos\\DbApplication\\SQLServerClass.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\DbApplication\\SQLServerClass.cs",
+              "RelativeToolTip": "ControleDeProdutos\\DbApplication\\SQLServerClass.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:40:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comandos.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Entities\\Comandos.cs",
+              "RelativeDocumentMoniker": "ControleDeProdutos\\Entities\\Comandos.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Entities\\Comandos.cs",
+              "RelativeToolTip": "ControleDeProdutos\\Entities\\Comandos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:34:16.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaEnum.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Enum\\CategoriaEnum.cs",
+              "RelativeDocumentMoniker": "ControleDeProdutos\\Enum\\CategoriaEnum.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Enum\\CategoriaEnum.cs",
+              "RelativeToolTip": "ControleDeProdutos\\Enum\\CategoriaEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:10:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "ControleDeProdutos\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Entities\\Produto.cs",
+              "RelativeToolTip": "ControleDeProdutos\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:06:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDeProdutos\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\ControleDeProdutos\\ControleDeProdutos\\Program.cs",
+              "RelativeToolTip": "ControleDeProdutos\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:03:43.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
