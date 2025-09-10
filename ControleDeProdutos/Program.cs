@@ -2,6 +2,7 @@
 using ControleDeProdutos.Entities;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Security.AccessControl;
 using System.Text;
@@ -14,7 +15,7 @@ namespace ControleDeProdutos
         static void Main(string[] args)
         {
             int opcao;
-            ComandosSQL comandosSQL = new ComandosSQL("`Produtos");
+            ComandosSQL comandosSQL = new ComandosSQL("Produtos");
 
 
             Console.WriteLine("Seja bem-vindo ao Product Controller");
@@ -22,7 +23,7 @@ namespace ControleDeProdutos
             do
             {
                 Console.WriteLine("Qual operação deseja realizar: ");
-                Console.WriteLine("1)Cadastrar produto\n2)Alterar produto\n3)Excluir Produto\n4)Acessar produtos\n5)Pesquisa");
+                Console.WriteLine("0)SAir do programa\n1)Cadastrar produto\n2)Alterar produto\n3)Excluir Produto\n4)Acessar produtos\n5)Pesquisa");
                 Console.WriteLine();
                 Console.Write("Digite o número que corresponte ao que deseja fazer: ");
                 opcao = int.Parse(Console.ReadLine());
@@ -36,7 +37,7 @@ namespace ControleDeProdutos
                         Console.Write("Insira o nome: ");
                         string nome = (Console.ReadLine());
                         Console.Write("Insira seu valor unitário: ");
-                        double valorUnitario = double.Parse(Console.ReadLine());
+                        double valorUnitario = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
                         Console.Write("Insira a sua quantidade estocada: ");
                         int estoque = int.Parse(Console.ReadLine());
                         Console.Write("Insira o nome do fabricante: ");
@@ -52,7 +53,7 @@ namespace ControleDeProdutos
                         Console.Write("Insira o Id do produto: ");
                         id = int.Parse(Console.ReadLine());
                         Console.Write("Insira o novo valor: ");
-                        valorUnitario = double.Parse(Console.ReadLine());
+                        valorUnitario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                         Console.WriteLine("");
                         Console.WriteLine("Produto alterado");
 
@@ -80,6 +81,8 @@ namespace ControleDeProdutos
                         Console.WriteLine("Valor inválido");
                         ;break;
                 }
+                Console.Clear();
+
 
             }while(opcao != 0);
         }

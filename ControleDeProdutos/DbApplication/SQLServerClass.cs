@@ -32,12 +32,13 @@ namespace ControleDeProdutos.DbApplication
             return dt;
         }
 
-        public string SQLCommand(string Sql)
+        public int SQLCommand(string Sql)
         {
-            var Command = new SqlCommand(Sql, ConectionDb);
-            Command.CommandTimeout = 0;
-            var Reader = (Command.ExecuteReader());
-            return "";
+            using (var Command = new SqlCommand(Sql, ConectionDb))
+            {
+                Command.CommandTimeout = 0;
+                return Command.ExecuteNonQuery();
+            }
         }
 
         public void Close()

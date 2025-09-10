@@ -74,7 +74,7 @@ namespace ControleDeProdutos.DbApplication
 
             try
             {
-                var sql = $"UPDATE {Tabela} SET PRECO = {novoValor} WHERE Id = {id};";
+                var sql = $"UPDATE {Tabela} SET ValorUnitario = {novoValor} WHERE Id = {id};";
                 db.SQLCommand(sql);
                 Status = true;
                 Mensagem = "Alteração concluida com sucesso. Id: " + id;
