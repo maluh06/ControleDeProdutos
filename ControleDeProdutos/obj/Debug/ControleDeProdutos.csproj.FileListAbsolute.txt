@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\bin\Debug\ControleDeProdutos.exe.config
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\bin\Debug\ControleDeProdutos.exe
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\bin\Debug\ControleDeProdutos.pdb
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\obj\Debug\ControleDeProdutos.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\obj\Debug\ControleDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\obj\Debug\ControleDeProdutos.exe
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\obj\Debug\ControleDeProdutos.pdb
+C:\Users\maria\source\repos\ControleDeProdutos\ControleDeProdutos\obj\Debug\ControleDeProdutos.exe.config

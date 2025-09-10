@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DbApplication\ProdutosDb.cs" />
+    <Compile Include="DbApplication\ComandosSQL.cs" />
     <Compile Include="DbApplication\SQLServerClass.cs" />
-    <Compile Include="Entities\Comandos.cs" />
     <Compile Include="Entities\Produto.cs" />
     <Compile Include="Enum\CategoriaEnum.cs" />
     <Compile Include="EstoqueDbDataSet.Designer.cs">
